@@ -1,19 +1,19 @@
 # Chess Game (Human vs. Human) in Python
 ## Gameplay
 
-https://github.com/arc-Smith/Chess-Game/assets/98622773/719b6011-f6ae-49b2-9edf-828b33ed47fd
+https://github.com/arc-smith/Chess-Game/assets/98622773/719b6011-f6ae-49b2-9edf-828b33ed47fd
 
 ## Overview
 
 This is a chess game implemented using Python and Tkinter (standard GUI package). This chess game includes custom pixel-art designs for the pieces, which I created using the pixel design application Aseprite. The game provides a graphical user interface (GUI) that allows players to move the pieces by clicking on them with the mouse and it implements the touch-move rule.
 
-<img width="400" alt="Screenshot 2023-05-31 at 10 59 58 AM" src="https://github.com/arc-Smith/Chess-Game/assets/98622773/3e996dcc-4882-42bb-8d14-4b0b267d7bfd" />
+<img width="400" alt="Screenshot 2023-05-31 at 10 59 58 AM" src="https://github.com/arc-smith/Chess-Game/assets/98622773/3e996dcc-4882-42bb-8d14-4b0b267d7bfd" />
 
 ## Installation
 
 **1. Clone the repository:** 
 - open the Terminal
-- "git clone https://github.com/arc-Smith/Chess-Game-HVH.git"
+- "git clone https://github.com/arc-smith/Chess-Game-HVH.git"
 
 **2. Run the program:**
 - cd into the chess game folder
@@ -30,4 +30,4 @@ This is a chess game implemented using Python and Tkinter (standard GUI package)
 
 ## Honors Project
 
-This chess game is an honors project developed under the supervision of Professor Miriam Briskman for honors credit. It showcases Python programming and software engineering fundamentals applied in an independent project. Developed and maintained by Ahmai Chaney-Smith (https://github.com/arc-Smith).
+This chess game is an honors project developed under the supervision of Professor Miriam Briskman for honors credit. It showcases Python programming and software engineering fundamentals applied in an independent project. Developed and maintained by Ahmai Chaney-smith (https://github.com/arc-smith).
